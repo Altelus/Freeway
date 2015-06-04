@@ -1,10 +1,10 @@
 # Freeway
 Simple freeway clone written using OpenGL, SFML & C++
 
-CONTROLS
+###CONTROLS
 -----------
-  1 - Toggle HUD
-
-  W,A,S,D - Movement
-
-  Mouse - Camera controls
+Input Key    |  Function
+-------- | ---
+1 | Toggle HUD
+W,A,S,D    | Movement
+Mouse     | Camera controls
